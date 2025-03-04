@@ -1,0 +1,15 @@
+.jack {
+  width: 300px;
+}
+.jack_r {
+  width: 400px;
+}
+.jack_ra, .jack_ras, .jack_rasse, .jack_rassel {
+  width: 500px;
+}
+
+.dog {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
